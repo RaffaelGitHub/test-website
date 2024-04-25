@@ -1,0 +1,15 @@
+button {
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: rgb(190, 78, 78);
+  border-radius: 99px;
+  border: 2px inset red;
+transition: all 0.4s;
+}
+
+button:hover {
+  text-decoration: underline;
+
+  scale: 1.2;
+}
